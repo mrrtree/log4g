@@ -1,0 +1,10 @@
+[
+    {
+        "type": "file",
+	    "fileName": "./mytest.log",
+	    "level": "DEBUG",
+	    "maxLogSize": 50,
+	    "backups": 1,
+	    "category": "mylog"
+    }
+]
